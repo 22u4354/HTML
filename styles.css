@@ -20,7 +20,7 @@ img{
     /* border: 1px solid; */
     height: 100px;
 }
-p{
+.facebook-txt{
     font-family: Arial, Helvetica, sans-serif;
     text-wrap: wrap;
     font-size: 25px;
